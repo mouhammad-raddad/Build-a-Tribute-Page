@@ -1,0 +1,47 @@
+body {
+  margin: 0px;
+  padding: 15px;
+  font-family: "Lora", serif;
+  background: #0d0d0d;
+  color: #ffff00;
+  text-align: center;
+}
+hr {
+  border-color: #ffff00;
+}
+.info-header {
+  padding: 10px 20% 10px 20%;
+}
+header {
+  margin: 0px;
+  padding: 10px 20% 10px 20%;
+}
+h1 {
+  font-size: 4rem;
+  margin: 0px;
+  padding: 10px 10px 0px 10px;
+}
+h3 {
+  font-size: 1.5rem;
+  margin: 0px;
+  padding: 10px;
+  text-align: center;
+}
+h6 {
+  font-size: 1.5rem;
+  margin: 0px;
+  padding: 20px 10px 10px 10px;
+}
+footer {
+  margin: 0;
+  padding: 10px 20% 10px 20%;
+}
+.info {
+  text-align: left;
+  margin: 0;
+  padding: 20px 25% 20px 25%;
+}
+.img-sec {
+  margin: 0px;
+  padding: 0px;
+}
