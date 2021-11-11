@@ -6,7 +6,10 @@ ghpages.publish(
     src: ['*.html', '*.css'],
   },
   (result) => {
-    console.log(result);
-    console.log('Done');
+    if (result) {
+      console.log('🚀 ~ file: publish.js ~ line 10 ~ result', result);
+    } else {
+      console.log('Done');
+    }
   }
 );
